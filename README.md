@@ -1,4 +1,7 @@
 <img width="600" height="262" alt="image" src="https://github.com/user-attachments/assets/906c75a3-fa41-4a2b-8f6e-a1abe8da9bfd" />
+
+
+
 🚗 Car Racing Game
 A simple and fun 2D car racing game built using HTML, CSS, and JavaScript. The player controls a car on a road, dodging traffic and trying to score the highest possible points.
 
@@ -6,8 +9,12 @@ A simple and fun 2D car racing game built using HTML, CSS, and JavaScript. The p
 👉 Click here to play
 (Replace with your GitHub Pages or Vercel live link)
 
+
+
 🖼️ Screenshots
-<img width="600" height="262" alt="image" src="https://github.com/user-attachments/assets/559b375d-6a74-460e-a14f-e7b8ade6a2a9" />    
+<img width="600" height="262" alt="image" src="https://github.com/user-attachments/assets/559b375d-6a74-460e-a14f-e7b8ade6a2a9" />  
+
+
 
 
 🛠️ Technologies Used
